@@ -8,7 +8,7 @@
 - [x] Module 3. Quiz: key concepts
 - [x] Module 4. An overview of key security tools 
 
-<img src = "/emirafiq88/IBM_Cybersecurity_Analyst_Professional_Certificate_Program/blob/main/Course%201%20Cert%20-%20Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks%20-%20X3GMTTMJRAVH.jpg?raw=true" style="max-width: 100%;" class="hoverZoomLink">
+<img src = "/emirafiq88/IBM_Cybersecurity_Analyst_Professional_Certificate_Program/blob/main/Course%201%20Cert%20-X3GMTTMJRAVH.png?raw=true" style=" width:798px; height:467px" class="hoverZoomLink">
 
 ### Course 2. Cybersecurity Roles, Processes & Operating System Security  (Completed 2022-10-30) ###
 - [x] Module 1. People Process & Technology
